@@ -1,4 +1,4 @@
-# Use an official Node.js runtime as the base image
+# Build stage
 FROM node:18-alpine AS builder
 
 # Set working directory
